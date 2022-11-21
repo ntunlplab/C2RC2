@@ -36,7 +36,7 @@ sentence.
 
 ## 3 Example of C2RC2 Dataset
 
-```yaml
+```json
 {
     "id":4693,
     "label":5,
